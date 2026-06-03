@@ -7,7 +7,7 @@ Welcome to your LLM Wiki knowledge index. This index is automatically maintained
 ## Summaries
 *A catalog of all ingested source documents and their summaries.*
 
-*No sources ingested yet.*
+- [[Summary - Tom Profile Dump 2026]] - Profile, technical expertise, work history, and job search parameters.
 
 ---
 
@@ -21,7 +21,11 @@ Welcome to your LLM Wiki knowledge index. This index is automatically maintained
 ## Entities
 *Key people, organizations, projects, systems, and places.*
 
-*No entities documented yet.*
+- [[SysGroup]] - LSE-listed Managed Service Provider (Director of Strategy).
+- [[Independent AI Consulting]] - Advisory for FTSE 100/250 clients (RELX, Omaze, etc.).
+- [[The Generalist Co]] - Scaling MRR and building 'ProposAI' (Head of Tech).
+- [[PLUGGED]] - Founder community and workspace (Co-founder).
+- [[Behaviour Lab]] - Early stage scaling and custom MapReduce engineering (Software Engineer & Data Scientist).
 
 ---
 
