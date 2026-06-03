@@ -14,7 +14,7 @@ tags:
 SysGroup PLC is an LSE-listed Managed Service Provider (MSP). 
 
 ## Role Details
-- **Title**: Director of Strategy (Appointed to Senior Leadership Team within 6 months; appointed Board Secretary within 8 months, managing corporate governance for Board, Audit, RemCo, and NomCo).
+- **Title**: Director of Strategy (Appointed to the Senior Leadership Team [SLT] and brought onto the Board as a PDMR with a permanent Board Observation role after 7 months; actively engaged in strategic Board and Committee conversations [Audit, RemCo, NomCo] rather than serving in a standard administrative/secretarial capacity).
 - **Tenure**: July 2025 – Present
 - **Reporting**: Reports directly to the Board of Directors.
 - **Focus**: M&A, AI Strategy, Technical Enablement, Operational Restructuring, and Investor Relations.
