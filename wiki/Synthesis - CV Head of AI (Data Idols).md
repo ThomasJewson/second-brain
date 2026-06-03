@@ -31,7 +31,7 @@ Oxford-educated technical leader and strategist (MChem, First Class) with experi
 - **IP Group PLC (FTSE 250 VC):** Audited 38 stakeholders to identify 12 strategic AI initiatives. Hired the firm's first dedicated AI engineer and presented the AI roadmap to the C-suite and Board. Contract renewed twice; currently retained as an AI Advisor delivering monthly sessions to the senior leadership and AI deployment teams.
 - **RELX PLC (FTSE 100):** Designed and delivered AI workshops for 250 leaders across EMEA, US, and LATAM, helping teams identify and execute workflows to achieve 60% operational efficiency gains.
 - **St. James's Place PLC (FTSE 100):** Conducted an operations audit and delivered a roadmap for back-office automation using LLMs.
-- **Omaze:** Built a serverless RAG system in 3 days (AWS Lambda, S3, Pinecone, Snowflake) to resolve key operational bottlenecks.
+- **Omaze:** Defined the AI strategy, engineered a serverless RAG system in 3 days (AWS Lambda, S3, Pinecone, Snowflake), and led a behavioral change program to drive adoption. Received a full-time return offer.
 
 ### The Generalist Co. | Head of Tech | Mar 2024 – Jun 2025
 
@@ -44,9 +44,10 @@ Oxford-educated technical leader and strategist (MChem, First Class) with experi
 
 *McKinsey spin-out building analytics for active asset managers.*
 
-- Joined as the second software engineer at a McKinsey spin-out building analytics for active asset managers; helped grow the engineering team to 15.
-- Established the team's software development lifecycle (SDLC) protocols and release management processes.
+- Joined as the second engineer at a McKinsey spin-out building analytics for active asset managers; helped grow the engineering team from 2 to 15.
+- Worked directly with portfolio managers and their boards to drive change in the funds, crafting investment narratives, board decks, and technical presentations alongside software engineering.
 - Designed a serverless MapReduce system (Python, AWS Lambda, S3) that improved data processing response times by 100x, helping sovereign wealth funds manage €500m AUM.
+- Established the team's software development lifecycle (SDLC) protocols and release management processes.
 
 ### Ready4Rishi | Technology Advisor | Jul 2022 – Sep 2022
 

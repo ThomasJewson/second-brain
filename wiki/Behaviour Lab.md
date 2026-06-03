@@ -24,7 +24,7 @@ Behaviour Lab is a McKinsey spin-out startup building advanced analytics for eli
 - **Team & SDLC Scaling**: Scaled the engineering team from just 2 to 15 members. Established rigorous delivery standards, strict SDLC protocols (Git, CI/CD, and pull requests), and production release management workflows.
 - **API Design**: Bridged the gap between complex engineering and elite client adoption by designing robust RESTful APIs, enforcing strict input/output validation using Pydantic, and defining clear error codes.
 - **Performance Engineering**: Designed a custom, cost-efficient MapReduce system on a serverless architecture (**Python, AWS Lambda, and AWS S3** for data storage) that processed complex active asset management data and improved query response times by **100x**.
-- **Client Strategy**: Delivered bespoke technical consultancy directly to hedge funds and sovereign wealth funds managing **~€500m AUM**, helping drive up to **2.5% outperformance**.
+- **Client Strategy & Advisory**: Worked directly with active portfolio managers and their boards to drive change within the funds. Crafted investment narratives and board decks alongside lead software development work. Delivered bespoke technical consultancy directly to hedge funds and sovereign wealth funds managing **~€500m AUM**, helping drive up to **2.5% outperformance**.
 
 ## Open Questions & Clarifications
 *None outstanding.*

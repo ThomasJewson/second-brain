@@ -22,7 +22,7 @@ Tom operated as an Independent AI Strategy Consultant advising senior leadership
 - **RELX PLC (FTSE 100)**: Led executive workshops for ~250 leaders across EMEA, US, and LATAM. Optimized core processes using AI, resulting in a **60% efficiency gain** and widespread workflow integration.
 - **IP Group PLC (FTSE 250 Deep Tech VC)**: Interviewed 38 stakeholders to consolidate 79 pain points into 12 strategic AI initiatives. Handled technology roadmap audits, successfully placed the firm's first dedicated AI engineering hire, and presented findings directly to C-suite and Board. **Contract renewed twice**; currently retained as an AI Advisor, delivering monthly advisory sessions to their Senior Leadership Team and their AI deployment team.
 - **St. James's Place PLC (FTSE 100)**: Conducted a comprehensive operations audit and outlined a detailed strategic roadmap to automate back-office functions through AI.
-- **Omaze**: Diagnosed operational bottlenecks for the high-growth marketing firm. Proposed four key AI initiatives and **engineered a production-grade RAG system in 3 days**.
+- **Omaze**: Diagnosed operational bottlenecks for the high-growth marketing firm. Defined the firm's AI strategy, led a behavioural change programme to drive tool adoption, and engineered a production-grade RAG system in 3 days. Extended a full-time return offer.
 
 ## Core Stack Used
 - **Architecture**: Retrieval-Augmented Generation (RAG) Pipelines, Serverless Microservices.
