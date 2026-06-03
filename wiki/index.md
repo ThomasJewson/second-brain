@@ -35,4 +35,4 @@ Welcome to your LLM Wiki knowledge index. This index is automatically maintained
 ## Syntheses
 *Cross-document analyses, comparisons, and research reports generated from queries.*
 
-*No syntheses documented yet.*
+- [[Synthesis - CV Head of AI (Data Idols)]] - Tailored CV for Head of AI role at a major UK brand (£140k–£170k, London/Hybrid).

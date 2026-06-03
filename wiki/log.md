@@ -32,3 +32,9 @@ This file records a chronological timeline of all activities in the LLM Wiki (in
   - [[Independent AI Consulting]]
   - [[The Generalist Co]]
   - [[Behaviour Lab]]
+
+## [2026-06-03] query | CV Tailored for Head of AI (Data Idols)
+- Job description stored: `raw/JD - Head of AI (Data Idols).md`
+- Generated tailored CV: [[Synthesis - CV Head of AI (Data Idols)]]
+- Emphasis: Enterprise AI strategy, building/scaling AI functions, Board-level stakeholder influence, governance, GenAI/agentic/operational AI adoption at scale
+- De-emphasised: Hands-on engineering details, low-level tech stack specifics
