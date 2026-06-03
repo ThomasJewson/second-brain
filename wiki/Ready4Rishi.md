@@ -22,7 +22,8 @@ Ready4Rishi was Rishi Sunak's 2022 campaign for Prime Minister of the United Kin
 - **Workflow Automation**: Identified critical inefficiencies in campaign workflows and rapidly prototyped automated solutions, freeing up two staff members for strategic tasks.
 - **Web Infrastructure**: Assisted in building and maintaining the core campaign website, scaling it to handle traffic spikes of over 1 million visits.
 
+## CV Presentation Strategy
+- **Guidance**: Retain on tailored CVs as a brief, high-impact entry to demonstrate rapid prototyping, agility, and high-traffic web scaling (1M+ visits under pressure).
+
 ## Open Questions & Clarifications
-*To be populated after user response.*
-- Do you still want to include this role on your CV for target AI Strategy / Transformation leadership positions, or is it optional depending on the sector?
-- What was the tech stack used for the campaign website and workflow automations?
+*None outstanding.*
