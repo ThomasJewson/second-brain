@@ -1,0 +1,7 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Obsidian specific metadata (optional, uncomment if you don't want to sync app state)
+# .obsidian/workspace.json
+# .obsidian/workspace-mobile.json
