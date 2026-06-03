@@ -32,6 +32,7 @@ The operational and financial performance improvements were **directly driven** 
 - **M&A & Investor Relations**: Led key M&A due diligences, post-acquisition integration, and successfully got high-stakes M&A deals over the line. Pitched the firm’s AI roadmap directly to major institutional investors, private equity firms, and high-net-worth individuals during city roadshows (published in RNS).
 
 ## Engineering & Team Achievements
+- **Operational Agility & Modernization**: Injected operational speed and agility into a historically sluggish managed services business, bypassing legacy, slow-moving IT cycles to rapidly deploy state-of-the-art tools, standardizing the company-wide workflow on **Claude** for high-efficiency daily operations.
 - **Knowledge Graph & Company Brain**: Architected and deployed a company-wide Knowledge Graph and "Company Brain" based on a **Karpathy Wiki / GBrain** implementation, yielding massive productivity gains across the organization.
 - **AI Pipelines**: Architected and executed a microservice AI pipeline using Snowflake’s embedding abstraction, AWS S3, and AWS Lambdas. Led the strategic shutdown of over-engineered legacy systems, successfully reducing time-to-production for AI integrations from **18 months to under 2 days**.
 - **AI Talent Acquisition**: Recruited and onboarded two AI Forward Deployed Engineer contractors and initiated hiring for a full-time (FTE) Forward Deployed Engineer to sustain the AI roadmap.
