@@ -20,3 +20,15 @@ This file records a chronological timeline of all activities in the LLM Wiki (in
   - [[The Generalist Co]]
   - [[PLUGGED]]
   - [[Behaviour Lab]]
+
+## [2026-06-03] ingest | CV Documents (Supplement)
+- Processed raw files: `raw/Thomas Jewson CV Strategy.md` and `raw/Thomas Jewson Technical CV.md`
+- Created summary pages:
+  - [[Summary - Thomas Jewson CV Strategy]]
+  - [[Summary - Thomas Jewson Technical CV]]
+- Created entity page: [[Ready4Rishi]]
+- Updated entity pages with supplemental technical and strategic details:
+  - [[SysGroup]]
+  - [[Independent AI Consulting]]
+  - [[The Generalist Co]]
+  - [[Behaviour Lab]]

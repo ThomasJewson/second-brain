@@ -19,15 +19,19 @@ Tom operated as an Independent AI Strategy Consultant advising senior leadership
 - **Key Clients**: FTSE 100/250 companies (including RELX, IP Group, St. James's Place) and fast-growing businesses (Omaze).
 
 ## Key Achievements & Impact
-- **RELX**: Delivered 60%+ operational efficiency gains through AI integration.
-- **Omaze**: Built and deployed production-grade RAG pipelines.
-- **Executive Advisory**: Guided boards and executive teams on M&A diligence and technology roadmaps.
+- **RELX PLC (FTSE 100)**: Led executive workshops for ~250 leaders across EMEA, US, and LATAM. Optimized core processes using AI, resulting in a **60% efficiency gain** and widespread workflow integration.
+- **IP Group PLC (FTSE 250 Deep Tech VC)**: Interviewed 38 stakeholders to consolidate 79 pain points into 12 strategic AI initiatives. Handled technology roadmap audits and successfully placed the firm's first dedicated AI engineering hire. Presented findings directly to C-suite and Board.
+- **St. James's Place PLC (FTSE 100)**: Conducted a comprehensive operations audit and outlined a detailed strategic roadmap to automate back-office functions through AI.
+- **Omaze**: Diagnosed operational bottlenecks for the high-growth marketing firm. Proposed four key AI initiatives and **engineered a production-grade RAG system in 3 days**.
 
 ## Core Stack Used
-- RAG, Serverless (AWS Lambda/S3), API design (Pydantic/REST), Snowflake, Vector Databases (Pinecone).
+- **Architecture**: Retrieval-Augmented Generation (RAG) Pipelines, Serverless Microservices.
+- **Cloud & Databases**: AWS Lambda, AWS S3, Pinecone Vector Databases, Snowflake Data Lake.
+- **Models & APIs**: ChatGPT embedding and completion models, RESTful APIs.
 
 ## Open Questions & Clarifications
 *To be populated after user response.*
-- How did this consulting business operate during full-time roles (e.g. at The Generalist Co. or SysGroup)? Was it part-time advisory, side projects, or a dedicated firm?
-- Can you share more details about the Omaze RAG project? What was the use case and direct impact?
-- What was the specific focus of the St. James's Place or IP Group advisory work?
+- How did this consulting business operate during full-time roles (e.g., at The Generalist Co. or SysGroup)? Was it part-time advisory, side projects, or a dedicated firm?
+- For the Omaze RAG system built in 3 days, what was the primary business use case (e.g., customer support, marketing content generation, internal document search)?
+- Was there a particular reason the Omaze work transitioned into a full-time offer, and why did you decide to pass on it?
+

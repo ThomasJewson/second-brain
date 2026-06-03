@@ -8,6 +8,8 @@ Welcome to your LLM Wiki knowledge index. This index is automatically maintained
 *A catalog of all ingested source documents and their summaries.*
 
 - [[Summary - Tom Profile Dump 2026]] - Profile, technical expertise, work history, and job search parameters.
+- [[Summary - Thomas Jewson CV Strategy]] - Strategy-focused CV (updated Feb 2026).
+- [[Summary - Thomas Jewson Technical CV]] - Tech/engineering-focused CV (updated Feb 2026).
 
 ---
 
@@ -26,6 +28,7 @@ Welcome to your LLM Wiki knowledge index. This index is automatically maintained
 - [[The Generalist Co]] - Scaling MRR and building 'ProposAI' (Head of Tech).
 - [[PLUGGED]] - Founder community and workspace (Co-founder).
 - [[Behaviour Lab]] - Early stage scaling and custom MapReduce engineering (Software Engineer & Data Scientist).
+- [[Ready4Rishi]] - Technology Advisor for PM campaign (workflow automation and web traffic scaling).
 
 ---
 
